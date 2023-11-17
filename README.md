@@ -11,20 +11,20 @@
 😀 😀This plugin is tailor-made for you!!    
     
 ⭐Features:    
-Automatically read tasks from Scripts based on the author (keyword).    
-Add tasks from a GameObject by clicking on it.    
-Add tasks from a Component by clicking on it.    
-Manually create Custom tasks.    
-Automatically sync deleted tasks from scripts.    
-One-click locate the location of a task.    
-Support adding multiple authors (keywords).    
-Support configuring favorite (watched folders) folders.    
-Filter tasks by task author (keyword) or/and task name.    
-Search for tasks using Unity's built-in search bar.    
-Edit task descriptions and names.    
-Display line numbers of tasks in the script.    
-Display the Hierarchy path structure of tasks based on GameObject and Component types.    
-Support additional configuration options,and so on.    
+* Automatically read tasks from Scripts based on the author (keyword).    
+* Add tasks from a GameObject by clicking on it.    
+* Add tasks from a Component by clicking on it.    
+* Manually create Custom tasks.    
+* Automatically sync deleted tasks from scripts.    
+* One-click locate the location of a task.    
+* Support adding multiple authors (keywords).    
+* Support configuring favorite (watched folders) folders.    
+* Filter tasks by task author (keyword) or/and task name.    
+* Search for tasks using Unity's built-in search bar.    
+* Edit task descriptions and names.    
+* Display line numbers of tasks in the script.    
+* Display the Hierarchy path structure of tasks based on GameObject and Component types.    
+* Support additional configuration options,and so on.    
     
 📍Additional note:    
 😩This plugin cannot replace project and task tracking tools like JIRA, 😀but it solves problems within Unity that JIRA cannot address!    
