@@ -1,11 +1,12 @@
-# 👉[Lean-Todo-List](https://assetstore.unity.com/packages/slug/268213?aid=1011lrgAB)    
+# 👉[Lean-Todo-List](https://assetstore.unity.com/publishers/74657)    
 😖Whether this plugin is useful to me?😖    
 
 😩Have you encountered any of the following troubles?😩    
-1️⃣ Have you ever forgotten the location of TODO tasks created in different Scripts after a certain period of time?    
-2️⃣ Do you wish to mark TODO tasks for GameObjects (in scenes or prefabs) that have not been set or modified yet?    
-3️⃣ Would you like to mark TODO tasks for Components, such as uninitialized fields in scripts or unfinished work in Text components?    
-4️⃣ Are you looking for a task management solution that can be used without closing and leaving the Unity interface?    
+1️⃣ Have you ever forgotten the location of TODO tasks created in different Scripts after a certain period of time?        
+2️⃣ Do you wish to mark TODO tasks for GameObjects (in scenes or prefabs) that have not been set or modified yet?        
+3️⃣ Would you like to mark TODO tasks for Components, such as uninitialized fields in scripts or unfinished work in Text components?        
+4️⃣ Are you looking for a task management solution that allows you to locate tasks(any task) with one-click on the unity interface?        
+5️⃣ Are you looking for a task management solution that can be used without closing and leaving the Unity interface?        
     
 🎉 🎉Congratulations!    
 😀 😀This plugin is tailor-made for you!!    
